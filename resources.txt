@@ -1,0 +1,14 @@
+API docs
+http://labs.europeana.eu/api - - https://github.com/europeana/api2
+http://labs.europeana.eu/api/linked-open-data-introduction
+
+npm modules
+https://github.com/fvdm/nodejs-europeana
+other projects
+http://europeana.ontotext.com
+http://with.image.ntua.gr/assets/index.html
+http://www.europeana-d3.info - - https://github.com/smoore4moma/europeana-d3
+https://github.com/eLedge/europeana4angular
+
+...
+https://material.angularjs.org/
